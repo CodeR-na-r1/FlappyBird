@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/стена (mp3cut.net) (1).wav-41b88b6b0500fd9f8a4b697e4d6bc8ce.sample"
+
+[deps]
+
+source_file="res://assets/audio/стена (mp3cut.net) (1).wav"
+dest_files=[ "res://.import/стена (mp3cut.net) (1).wav-41b88b6b0500fd9f8a4b697e4d6bc8ce.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
